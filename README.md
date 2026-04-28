@@ -55,6 +55,10 @@ The algorithm selects the node with the lowest **f(n)** value at each step.
 
 * Contains the step-by-step simulation output of the truck movement
 
+### 5. cmd_output.png 
+
+* Screenshot showing the program execution
+
 ---
 
 ## How to Run
