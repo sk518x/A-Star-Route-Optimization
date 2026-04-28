@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project implements the **A* Search algorithm* to determine the optimal route for a delivery truck between different locations.
+This project implements the A* Search algorithm to determine the optimal route for a delivery truck between different locations.
 
 The algorithm minimizes travel cost by considering:
 
@@ -67,10 +67,6 @@ python A_star_search.py
 ```bash
 python A_star_search_testcase.py
 ```
-
-* Step-by-step movement of the truck between locations
-
----
 
 ## Conclusion
 
