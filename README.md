@@ -4,6 +4,9 @@
 
 This project implements the A* Search algorithm to determine the optimal route for a delivery truck between different locations.
 
+Start node: Disaneng  
+Goal node: Coligny  
+
 The algorithm minimizes travel cost by considering:
 
 * Actual distance between locations
