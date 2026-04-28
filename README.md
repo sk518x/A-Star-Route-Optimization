@@ -1,5 +1,5 @@
 #  Truck Logistics Route Optimization using A* Search
-
+---
 ## Project Description
 
 This project implements the A* Search algorithm to determine the optimal route for a delivery truck between different locations.
@@ -67,7 +67,7 @@ python A_star_search.py
 ```bash
 python A_star_search_testcase.py
 ```
-
+---
 ## Conclusion
 
 The A* Search algorithm efficiently determines the optimal route by combining actual travel cost and heuristic estimates. This makes it suitable for real-world applications such as logistics and navigation systems.
