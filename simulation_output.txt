@@ -1,0 +1,14 @@
+
+Truck traveling...
+
+Truck is now at: Disaneng
+Truck is now at: Mahikeng
+Truck is now at: Bakerville
+Truck is now at: Lichtenburg
+Truck is now at: Coligny
+
+Destination reached!
+
+Visited Order: ['Disaneng', 'Mahikeng', 'Bakerville', 'Mmabatho', 'Slurry', 'Madibogo', 'Lichtenburg', 'Coligny']
+Optimal Path: Disaneng → Mahikeng → Bakerville → Lichtenburg → Coligny
+Total Cost: 110
